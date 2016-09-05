@@ -2,11 +2,12 @@
 <metadata>
   <groupId>jp.co.dac</groupId>
   <artifactId>core-sdk-lib</artifactId>
+  <version>0.1.1-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.1-SNAPSHOT</version>
-      <version>0.1.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20160905.064957</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20160905064957</lastUpdated>
   </versioning>
 </metadata>
