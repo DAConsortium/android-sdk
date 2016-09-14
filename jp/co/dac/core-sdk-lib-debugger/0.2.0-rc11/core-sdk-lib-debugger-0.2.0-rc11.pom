@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>jp.co.dac</groupId>
+  <artifactId>core-sdk-lib-debugger</artifactId>
+  <version>0.2.0-rc11</version>
+  <packaging>aar</packaging>
+  <name>DACLibraryDebugger</name>
+  <description>advertisement SDK</description>
+  <url>https://github.com/DAConsortium/android-sdk</url>
+  <dependencies>
+    <dependency>
+      <groupId>android-core-lib</groupId>
+      <artifactId>core-sdk-lib</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>support-annotations</artifactId>
+      <version>24.2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.facebook.stetho</groupId>
+      <artifactId>stetho</artifactId>
+      <version>1.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
