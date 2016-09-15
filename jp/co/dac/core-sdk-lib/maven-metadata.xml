@@ -3,7 +3,7 @@
   <groupId>jp.co.dac</groupId>
   <artifactId>core-sdk-lib</artifactId>
   <versioning>
-    <release>0.2.1-rc1</release>
+    <release>0.2.1-rc3</release>
     <versions>
       <version>0.1-SNAPSHOT</version>
       <version>0.1.1-SNAPSHOT</version>
@@ -22,7 +22,8 @@
       <version>0.2.0-rc15</version>
       <version>0.2.0-rc16</version>
       <version>0.2.1-rc1</version>
+      <version>0.2.1-rc3</version>
     </versions>
-    <lastUpdated>20160915070349</lastUpdated>
+    <lastUpdated>20160915091357</lastUpdated>
   </versioning>
 </metadata>
