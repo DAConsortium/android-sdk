@@ -3,7 +3,7 @@
   <groupId>jp.co.dac</groupId>
   <artifactId>core-sdk-lib-debugger</artifactId>
   <versioning>
-    <release>0.2.1-rc10</release>
+    <release>0.2.2-rc1</release>
     <versions>
       <version>0.2.0-rc8</version>
       <version>0.2.0-rc9</version>
@@ -21,7 +21,8 @@
       <version>0.2.1-rc8</version>
       <version>0.2.1-rc9</version>
       <version>0.2.1-rc10</version>
+      <version>0.2.2-rc1</version>
     </versions>
-    <lastUpdated>20160916075155</lastUpdated>
+    <lastUpdated>20160920020305</lastUpdated>
   </versioning>
 </metadata>
