@@ -11,9 +11,15 @@
   <url>https://github.com/DAConsortium/android-sdk</url>
   <dependencies>
     <dependency>
-      <groupId>com.google.android.gms</groupId>
-      <artifactId>play-services-ads</artifactId>
-      <version>9.0.0</version>
+      <groupId>jp.co.dac</groupId>
+      <artifactId>core-sdk-lib</artifactId>
+      <version>0.2.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>support-annotations</artifactId>
+      <version>24.2.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
